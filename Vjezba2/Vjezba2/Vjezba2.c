@@ -74,7 +74,7 @@ int main() {
 void InsertFirst(person* p, char* name, char* surname, int yob) {
 	person* new = (person*)malloc(sizeof(person));
 	if (new == NULL) {
-		printf("Greška pri alociranju memorije!");
+		printf("Greška pri alociranju memorije!\n");
 		exit(1);
 	}
 	strcpy(new->name, name);
@@ -103,7 +103,7 @@ void PrintList(person* head) {
 void InsertLast(person* p, char* name, char* surname, int yob) {
 	person* new = (person*)malloc(sizeof(person));
 	if (new == NULL) {
-		printf("Greška pri alociranju memorije!");
+		printf("Greška pri alociranju memorije!\n");
 		exit(1);
 	}
 	strcpy(new->name, name);
