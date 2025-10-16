@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dadof\\Desktop\\Strukture_podataka\\Vjezba2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218521F6-9347-4677-9C92-CB8EA28691E7}|Vjezba2\\Vjezba2.vcxproj|C:\\Users\\dadof\\Desktop\\Strukture_podataka\\Vjezba2\\Vjezba2\\Vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{218521F6-9347-4677-9C92-CB8EA28691E7}|Vjezba2\\Vjezba2.vcxproj|solutionrelative:Vjezba2\\Vjezba2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vjezba2.c",
+              "DocumentMoniker": "C:\\Users\\dadof\\Desktop\\Strukture_podataka\\Vjezba2\\Vjezba2\\Vjezba2.c",
+              "RelativeDocumentMoniker": "Vjezba2\\Vjezba2.c",
+              "ToolTip": "C:\\Users\\dadof\\Desktop\\Strukture_podataka\\Vjezba2\\Vjezba2\\Vjezba2.c",
+              "RelativeToolTip": "Vjezba2\\Vjezba2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-15T10:12:46.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
