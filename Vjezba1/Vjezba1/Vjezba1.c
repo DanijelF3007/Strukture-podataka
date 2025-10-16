@@ -23,7 +23,7 @@ int main() {
 		if (fgetc(lista) == '\n')
 			brojac++;
 	}
-	brojac++;	//ako datoteka ne zavrsava s novim redom
+	brojac++;	//ako datoteka ne zavrsava s novim redom 
 	printf("\nPostoji %d studenata.\n",brojac);
 
 	rewind(lista);	//vraca datoteku na pocetak za ponovno citanje
