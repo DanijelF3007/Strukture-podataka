@@ -90,7 +90,7 @@ void Insertion(position p) {
 	char surname1[10];
 	int yob;
 
-	printf("\n1 - Unos na pocetak\n2 - Unos na kraj\n3 - Unos ispred\n4 - Unos iza\n");
+	printf("\n1 - Unos na pocetak\n2 - Unos na kraj\n3 - Unos iza\n4 - Unos ispred\n");
 	scanf("%d", &op);
 
 	if (op < 1 || op>4) {
