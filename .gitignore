@@ -1,0 +1,19 @@
+# Visual Studio privremeni fajlovi
+.vs/
+*.suo
+*.user
+*.VC.db
+*.pdb
+*.obj
+*.ilk
+*.log
+
+# Build direktoriji
+x64/
+Debug/
+Release/
+
+# Windows specifični
+Thumbs.db
+*.exe
+*.dll
