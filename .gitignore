@@ -7,6 +7,9 @@
 *.obj
 *.ilk
 *.log
+*.sln
+*.vcxproj
+*.vcxproj.filters
 
 # Build direktoriji
 x64/
