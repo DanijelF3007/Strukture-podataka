@@ -1,0 +1,5 @@
+Madrid 3506730
+Barcelona 1731649
+Valencia 840792
+Zaragoza 693091
+Sevilla 689423
