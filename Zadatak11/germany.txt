@@ -1,0 +1,5 @@
+Berlin 3580000
+Hamburg 1787700
+Munchen 1590900
+Koln 963400
+Frankfurt 732700
